@@ -1,0 +1,21 @@
+{
+    "name": "thphp/thcms-news",
+    "description": "thcms",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thphp",
+            "email": "1139495308@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\" : "src"
+        }
+    }
+}
